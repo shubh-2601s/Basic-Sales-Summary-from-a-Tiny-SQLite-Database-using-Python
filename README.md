@@ -133,4 +133,3 @@ This project is open-source and free to use for educational purposes.
 
 ---
 
-Let me know if you'd like to add a **date-based filter**, **interactive dashboard**, or turn this into a **Flask/FastAPI web app**!
