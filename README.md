@@ -1,6 +1,3 @@
-Sure! Here's a **detailed and professional `README.md`** for your Sales Data Visualization project using SQLite, SQL, Python, and Matplotlib.
-
----
 
 ## 📊 Sales Data Visualization with SQLite and Python
 
@@ -15,16 +12,16 @@ This project demonstrates how to:
 
 ### 🧾 Features
 
-* ✅ SQLite database with `sales` table (50+ rows)
-* ✅ SQL query to aggregate quantity and revenue per product
-* ✅ Python + Pandas for data loading and manipulation
-* ✅ Matplotlib visualizations:
+* SQLite database with `sales` table (50+ rows)
+* SQL query to aggregate quantity and revenue per product
+* Python + Pandas for data loading and manipulation
+* Matplotlib visualizations:
 
   * Bar chart: **Total Revenue by Product**
   * Bar chart: **Total Quantity by Product**
   * Combined chart: **Revenue vs Quantity**
   * Pie chart: **Quantity Share per Product**
-* ✅ All charts saved as `.png` images
+* All charts saved as `.png` images
 
 ---
 
